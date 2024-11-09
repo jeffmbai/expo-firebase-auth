@@ -1,0 +1,47 @@
+{
+    "Onboarding": {
+        "home-title": "Expo Firebase Auth",
+        "home-subtitle": "met TypeScript en Expo Router"
+    },
+    "Auth": {
+        "home-login-text": "Inloggen",
+        "home-login-description-text": "Welkom! Log in om toegang te krijgen tot onze diensten.",
+        "home-register-text": "Registreren",
+        "home-register-description-text": "Heb je geen account? Meld je nu aan!"
+    },
+    "Language-Message": {
+        "language-changed": "Taal veranderd",
+        "language-changed-description": "Taal is veranderd naar Nederlands"
+    },
+    "Choose-Language": {
+        "change-language": "Verander taal"
+    },
+    "SignIn-Success": {
+        "login-success": "Succesvol ingelogd!",
+        "login-success-second": "Veel plezier! 👋"
+    },
+    "SignIn-Failed": {
+        "login-failed": "Login Mislukt",
+        "login-failed-second": "Er is een fout opgetreden. Probeer het opnieuw."
+    },
+    "SignUp-Success": {
+        "btn-text": "Reigstreer",
+        "registration-success": "Registratie Succesvol",
+        "registration-success-second": "Je bent succesvol geregistreerd."
+    },
+    "SignUp-Failed": {
+        "registration-failed": "Registratie Mislukt",
+        "registration-failed-second": "Er is een fout opgetreden. Probeer het opnieuw."
+    },
+    "SignIn-Form": {
+        "form-title": "Log nu in",
+        "form-input-email": "Voer e-mailadres in",
+        "form-input-password": "Voer wachtwoord in",
+        "form-button-title": "Inloggen"
+    },
+    "Form-Validation": {
+        "email-invalid": "E-mailadres klopt niet",
+        "password-invalid": "Wachtwoord is te kort",
+        "required": "Vereist"
+    }
+}

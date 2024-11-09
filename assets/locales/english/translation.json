@@ -1,0 +1,47 @@
+{
+    "Onboarding": {
+        "home-title": "Expo Firebase Auth",
+        "home-subtitle": "with TypeScript and Expo Router"
+    },
+    "Auth": {
+        "home-login-text": "Login",
+        "home-login-description-text": "Welcome! Log in to access our services.",
+        "home-register-text": "Register",
+        "home-register-description-text": "Don't have an account? Sign up now!"
+    },
+    "Language-Message": {
+        "language-changed": "Language Changed",
+        "language-changed-description": "The language has been changed to English"
+    },
+    "Choose-Language": {
+        "change-language": "Change language"
+    },
+    "SignIn-Success": {
+        "login-success": "Login Successful",
+        "login-success-second": "Enjoy it! 👋"
+    },
+    "SignIn-Failed": {
+        "login-failed": "Login Failed",
+        "login-failed-second": "An error occurred. Please try again."
+    },
+    "SignUp-Success": {
+        "btn-text": "Register",
+        "registration-success": "Registration Successful",
+        "registration-success-second": "You have successfully registered."
+    },
+    "SignUp-Failed": {
+        "registration-failed": "Registration Failed",
+        "registration-failed-second": "An error occurred. Please try again."
+    },
+    "SignIn-Form": {
+        "form-title": "Log in now",
+        "form-input-email": "Enter email address",
+        "form-input-password": "Enter password",
+        "form-button-title": "Login"
+    },
+    "Form-Validation": {
+        "email-invalid": "Email address is incorrect",
+        "password-invalid": "Password is too short",
+        "required": "Required"
+    }
+}
